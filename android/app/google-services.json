@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525293253722",
+    "firebase_url": "https://machinelearningflutter.firebaseio.com",
+    "project_id": "machinelearningflutter",
+    "storage_bucket": "machinelearningflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525293253722:android:0bdc2413bd774da8a9d463",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525293253722-8hjq0p8qu4ifg4il70i69k8v2h1rhke0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1YZqal9rA-E21Ia5-R0ZBW6xktGmGfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525293253722-8hjq0p8qu4ifg4il70i69k8v2h1rhke0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525293253722-kjumues1ko9hocsclq7nrt1u8e0sltlb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
